@@ -1,7 +1,5 @@
-Este es un archivo de texto plano de ejemplo
+Este es un archivo de texto plano para un ejemplo
 
-Nacio en Colombia
+Naci en Colombia
 
-Soy alto
-
-Hoy aprendo programacion en platzi.
+estoy aprendiendo Git
