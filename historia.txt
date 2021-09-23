@@ -1,3 +1,5 @@
-Este es un archivo de texto plano para un ejemplo
+Este es un archivo de texto plano de ejemplo
 
 Naci en Colombia
+
+Soy alto
